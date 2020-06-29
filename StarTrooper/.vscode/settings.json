@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"E:/UnrealProjects/StarTrooper/StarTrooper/.vscode": true,
+		"E:/UnrealProjects/StarTrooper/StarTrooper/Content": true,
+		"E:/UnrealProjects/StarTrooper/StarTrooper/Intermediate": true
+	}
+}
